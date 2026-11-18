@@ -1,0 +1,38 @@
+# Vivado generated project data (regenerated automatically on open/build)
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+
+# Vivado logs and journals
+*.jou
+*.log
+*.str
+vivado*.jou
+vivado*.log
+webtalk*.jou
+webtalk*.log
+
+# Vivado backup/lock files
+*.backup.jou
+*.backup.log
+*.lock
+*.xpr.lock
+
+# Generated reports / checkpoints / bitstreams (rebuildable from source)
+*.dcp
+*.bit
+*.ltx
+*.rpt
+*.pb
+
+# Simulation waveform databases
+*.wdb
+*.vcd
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.swp
